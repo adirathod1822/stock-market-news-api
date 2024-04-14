@@ -1,0 +1,17 @@
+{
+  "name": "share-market-news-api",
+  "version": "1.0.0",
+  "description": "This a Share market news API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "adi_rthd",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "nodemon": "^2.0.7"
+  }
+}
